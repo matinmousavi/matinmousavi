@@ -13,7 +13,7 @@ const matinmousavi = () => {
         "TypeScript",
       ],
       technologies: {
-        web: ["html", "css", "bootstrap", "reactjs"],
+        web: ["html", "css", "bootstrap", "tailwind" , "reactjs"],
         git: ["github" , "gitlab"]
       },
       packages: ["React Router DOM" , "Material UI" , "React Query" , "Rechart" , "Axios" ]
