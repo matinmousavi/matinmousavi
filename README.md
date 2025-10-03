@@ -1,19 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/adv74AcNdtP0tj9hLj/giphy.gif" width="100" />
-</div>
-
-<br />
-
-<div align="center">
-
-### سلام، من متین موسوی هستم 👋
-
-من یک توسعه‌دهنده فرانت‌اند با بیش از ۲ سال تجربه حرفه‌ای هستم و در ساخت رابط‌های کاربری مدرن و واکنش‌گرا با اکوسیستم React و اصول کدنویسی تمیز تخصص دارم.
+  
+  ### Hi there, I'm Matin Mousavi 👋
+  
+  *A Front-End Developer with 2+ years of experience, specializing in building modern, responsive user interfaces using the React ecosystem and clean code principles.*
 
 </div>
 
 <br />
+
+<h3 align="center">My Tech Stack</h3>
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>
@@ -31,6 +26,8 @@
 
 <div align="center">
 
-[![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=matinmousavi&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matinmousavi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
