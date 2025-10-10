@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=matinmousavi&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=matinmousavi&show_icons=true&theme=dracula&count_private=true&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matinmousavi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
