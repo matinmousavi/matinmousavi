@@ -15,12 +15,12 @@
 <div align="center">
   <h3>💻 Tech Stack</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind" />
-    <img src="https://cdn.jsdelivr.net/gh/ant-design/ant-design-icons/packages/icons-svg/svg/AntDesignOutlined.svg" width="40" alt="Ant Design" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind" />
     <br>
     <img src="https://skillicons.dev/icons?i=docker,mongodb,git,github,vscode,figma" />
   </p>
 </div>
+
 
 
 <br>
