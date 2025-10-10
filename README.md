@@ -27,7 +27,7 @@
   <h3>⏰ Coding Activity (via WakaTime)</h3>
   <p>
     <a href="https://wakatime.com/@matinmousavi">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&title_color=00FFFF&text_color=e2e8f0&bg_color=0d1117&layout=compact" alt="WakaTime Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@matinmousavi&theme=github_dark&hide_border=true&title_color=00FFFF&text_color=e2e8f0&bg_color=0d1117&layout=compact" alt="WakaTime Stats" />
     </a>
   </p>
 </div>
