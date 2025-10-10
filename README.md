@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/matinmousavi/matinmousavi/blob/main/header.gif?raw=true" alt="Header GIF" width="100%"/>
+  <img src="https://raw.githubusercontent.com/matinmousavi/matinmousavi/main/headergit.gif" alt="Header GIF" width="100%"/>
 </div>
 
 <br>
@@ -10,43 +10,44 @@
 
 <br>
 
-<table>
+<table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3 align="center">📊 GitHub Stats & Analytics</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=matinmousavi&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=e2e8f0&bg_color=0d1117&count_private=true&cache_seconds=14400" alt="Matin's GitHub Stats" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmousavi&layout=compact&theme=github_dark&hide_border=true&title_color=00FFFF&text_color=e2e8f0&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-      </p>
-      
-      <h3 align="center">💻 Tech Stack</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,antdesign" /><br>
-        <img src="https://skillicons.dev/icons?i=docker,mongodb,git,github,vscode,figma" />
-      </p>
+      <div align="center">
+        <h3>📊 GitHub Stats & Analytics</h3>
+        <p>
+          <img src="https://github-readme-stats.vercel.app/api?username=matinmousavi&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=e2e8f0&bg_color=0d1117&count_private=true&cache_seconds=14400" alt="Matin's GitHub Stats" />
+          <br>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmousavi&layout=compact&theme=github_dark&hide_border=true&title_color=00FFFF&text_color=e2e8f0&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+        </p>
+        <hr>
+        <h3>💻 Tech Stack</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,antdesign" /><br>
+          <img src="https://skillicons.dev/icons?i=docker,mongodb,git,github,vscode,figma" />
+        </p>
+      </div>
     </td>
     
     <td width="35%" valign="top">
-      <h3 align="center">⏰ Coding Activity</h3>
-      <p align="center">
-        <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&title_color=00FFFF&text_color=e2e8f0&bg_color=0d1117&layout=compact" alt="WakaTime Stats" />
-        </a>
-      </p>
+      <div align="center">
+        <h3>⏰ Coding Activity</h3>
+        <p>
+          <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&title_color=00FFFF&text_color=e2e8f0&bg_color=0d1117&layout=compact" alt="WakaTime Stats" />
+          </a>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
 
-<h3 align="center">🐍 My Contribution Graph</h3>
-<div align="center">
-  <img src="https://github.com/matinmousavi/matinmousavi/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
 <br>
 
-<h3 align="center">📫 Let's Connect</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/matinmousavi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoColor=white" /></a>
-  <a href="mailto:matinmousavi5049@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <h3>📫 Let's Connect</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/matinmousavi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoColor=white" /></a>
+    <a href="mailto:matinmousavi5049@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
